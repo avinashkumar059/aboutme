@@ -1,87 +1,219 @@
+<h1 align="center">
+Hi 👋, I'm <span style="color:#00BFFF;">Atish Kumar Sah</span>
+</h1>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Atish Kumar Sah</span></h1>
-<h3 align="center">💻 Full Stack Developer (MERN) | 🚀 Tech Enthusiast | 🌱 Lifelong Learner</h3>
+<h3 align="center">
+🚀 Full Stack MERN Developer | Java & DSA Enthusiast | Open Source Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=👨‍💻+B.Tech+in+Computer+Science+%26+Engineering;🌐+Full-Stack+Developer+(MERN);📚+Currently+learning+DSA+and+Open+Source;🚀+Building+impactful+projects+to+solve+real+problems!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=💻+Full+Stack+MERN+Developer;☕+Java+%7C+DSA+Learner;🌱+Open+Source+Contributor;🚀+Building+Projects+that+Solve+Real+Problems;❤️+Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🧑‍💻 Who Am I?
+# 💫 About Me
 
-💡 **B.Tech CSE Student** at *Parul University, Gujarat*  
-🚀 Passionate about **Full-Stack Web Development (MERN)**, **DSA-JAVA**  
-🌱 Constantly exploring **new technologies** and building **impactful projects**  
-🎯 Goal: To create scalable solutions that make a difference in the real world  
+🎓 B.Tech Computer Science Engineering Student
+
+🏫 Parul University, Gujarat
+
+💻 Passionate Full Stack MERN Developer
+
+🧠 Solving Data Structures & Algorithms in Java
+
+🌱 Exploring AI, Cloud & Open Source
+
+🚀 Love building real-world scalable applications
+
+💡 Believe in Continuous Learning
 
 ---
 
-## 🧰 Skills & Tools
+# 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=E34F26" />
-  <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&color=1572B6" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" />
-  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248" />
-  <img src="https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&color=000000" />
-  <img src="https://img.shields.io/badge/Version Control-Git-informational?style=flat&logo=git&color=F05032" />
-  <img src="https://img.shields.io/badge/UI-Bootstrap-informational?style=flat&logo=bootstrap&color=7952B3" />
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+### ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🛢 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,python" />
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🧩 Projects That Define Me
+# 🌟 Featured Projects
 
-1. **AgriConnect**  
-   🌾 Smart platform empowering farmers with digital tools for productivity.  
-2. **MERN Stack Apps**  
-   💻 Building scalable web applications with modern tech stacks.  
-3. **Open Source Contributions**  
-   🤝 Collaborating to make the developer community stronger.  
-4. **DSA**  
-   🧠 Solving real-world algorithmic problems efficiently.
+## 🌾 AgriConnect
+
+> Smart Agriculture Platform
+
+✔ Farmer Dashboard
+
+✔ Product Management
+
+✔ Authentication
+
+✔ Modern Responsive UI
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB`
 
 ---
 
-## 📊 GitHub Highlights
+## 💻 MERN Stack Applications
+
+- Authentication
+- CRUD Operations
+- REST APIs
+- Responsive UI
+- JWT Authentication
+
+---
+
+## 🧠 DSA Journey
+
+- Arrays
+- Linked List
+- Trees
+- Graphs
+- Dynamic Programming
+
+Solved 300+ Problems (Keep updating)
+
+---
+
+## 🤝 Open Source
+
+Contributing to open-source projects while learning Git, GitHub and collaborative development.
+
+---
+
+# 📚 Currently Learning
+
+- Advanced React
+- Next.js
+- Node.js Best Practices
+- Java DSA
+- System Design
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahatish&show_icons=true&theme=tokyonight" alt="Atish's GitHub stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahatish&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahatish&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahatish&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahatish&theme=tokyonight" alt="GitHub Streak"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahatish&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🌟 Fun Facts About Me
-
-- 🧩 Love solving puzzles — whether in code or logic form  
-- 💬 Believe in lifelong learning and sharing knowledge  
-- 🌍 Dream of building tech that truly impacts lives  
-
----
-
-## 🤝 Let's Connect!
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/sahatish">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" />
-  </a>
-  <a href="mailto:sahatish1st456@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/atish-sah-8a1a9b260/">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sahatish&theme=tokyonight&column=7"/>
+
 </p>
 
 ---
 
-<h4 align="center">✨ Thanks for visiting my profile! Let’s create something amazing together 🚀</h4>
-    
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahatish&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# ⚡ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/sahatish/sahatish/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/sahatish">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/atish-sah-8a1a9b260/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:sahatish1st456@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+# 💡 Fun Facts
+
+✨ I enjoy solving coding challenges.
+
+🚀 I love building scalable web applications.
+
+🌱 Always learning something new.
+
+💙 Open Source Enthusiast.
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+
+Let's Build Something Amazing Together 🚀
+</h3>
