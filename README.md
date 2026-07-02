@@ -1,31 +1,24 @@
 <h1 align="center">
-Hi 👋, I'm <span style="color:#00BFFF;">Atish Kumar Sah</span>
+Hi 👋, I'm <span style="color:#00BFFF;">Avinash Kumar Raut</span>
 </h1>
 
 <h3 align="center">
-🚀 Full Stack MERN Developer | Java & DSA Enthusiast | Open Source Learner
+🚀 Python Developer | Django | Data Analsyt
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=💻+Full+Stack+MERN+Developer;☕+Java+%7C+DSA+Learner;🌱+Open+Source+Contributor;🚀+Building+Projects+that+Solve+Real+Problems;❤️+Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=💻+Python+Developer;📊+Data+Analyst;🌱+Creative+Coder;🚀+Building+Projects+that+Solve+Real+Problems;❤️+Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 B.Tech Computer Science Engineering Student
-
-🏫 Parul University, Gujarat
-
-💻 Passionate Full Stack MERN Developer
-
-🧠 Solving Data Structures & Algorithms in Java
-
-🌱 Exploring AI, Cloud & Open Source
-
-🚀 Love building real-world scalable applications
-
+🎓 B.Tech CSE at Parul University, Gujarat  
+💻 Passionate about Python Developer,Data Analyst  
+🧠 Solving Data Structures & Algorithms in Python  
+🌱 Exploring AI, Cloud & Open Source  
+🚀 Love building real-world scalable applications  
 💡 Believe in Continuous Learning
 
 ---
@@ -41,7 +34,7 @@ Hi 👋, I'm <span style="color:#00BFFF;">Atish Kumar Sah</span>
 ### ⚙ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
 
 ### 🛢 Database
@@ -59,12 +52,12 @@ Hi 👋, I'm <span style="color:#00BFFF;">Atish Kumar Sah</span>
 ### 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-# 🌟 Featured Projects
+<!--# 🌟 Featured Projects
 
 ## 🌾 AgriConnect
 
@@ -172,11 +165,11 @@ Contributing to open-source projects while learning Git, GitHub and collaborativ
 
 # 🐍 Contribution Snake
 
-<p align="center">
+ <p align="center">
 
 <img src="https://github.com/sahatish/sahatish/blob/output/github-contribution-grid-snake.svg"/>
 
-</p>
+</p> -->
 
 ---
 
@@ -184,15 +177,15 @@ Contributing to open-source projects while learning Git, GitHub and collaborativ
 
 <p align="center">
 
-<a href="https://github.com/sahatish">
+<a href="https://github.com/avinashkumar059">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/atish-sah-8a1a9b260/">
+<a href="[https://www.linkedin.com/in/atish-sah-8a1a9b260](https://www.linkedin.com/in/avinash-kumar-raut-3379bb263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:sahatish1st456@gmail.com">
+<a href="mailto:avinashkumar9819855603@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
